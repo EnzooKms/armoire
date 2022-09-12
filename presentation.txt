@@ -1,0 +1,5 @@
+les parents de mon dossier code project est document
+
+et ses enfants sont tout les dossiers/fichiers à l'intérieur de celui si
+
+cd ./firstApp/cd3 ./armoire/
